@@ -1,0 +1,62 @@
+body{
+    margin: 20%;
+    margin-left: 40%;
+} 
+
+
+
+.eye{ 
+    width: 55px;
+    height: 30px;
+    
+    
+}
+.left{
+    background-color: black;
+    position: relative;
+    height: 7px;
+    width: 5px;
+    top: 30%;
+    float: left;
+    left: 17%;
+    border-radius: 50px;
+}
+.right{
+    background-color: black;
+   position: relative;
+    height: 7px;
+    width: 5px;
+    top: 30%;
+    float: right;
+    left: -15%;
+    border-radius: 50px;
+}
+.mouth {
+    background-color: black;
+    position: relative;
+    top: 45%;
+    left: 24px;
+    height: 4px;
+    width: 10px;
+    border-radius: 20px;
+}
+
+ 
+#head{
+    background: blanchedalmond;
+    position: absolute;
+    height: 15%;
+    width: 9.4%;
+    top: 31%;
+    border-radius: 30px;
+    
+
+}
+#bodypart{
+    background: cadetblue;
+    position: absolute;
+    height: 10%;
+    width: 9.5%;
+    border-radius: 10px;
+
+}
